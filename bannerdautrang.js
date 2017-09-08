@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/trCE61' target='_blank'><img src='https://2.bp.blogspot.com/-Vu4BawlY2I8/WbKnccBqDmI/AAAAAAAAAFg/BLRN_jyneIo76TuP5EAZmJdnkYmN-NjKACLcBGAs/s1600/IMG_20151130_220504-960x545.jpg' width='500px'/><br/>Shophouse Lavita charm</a>.LH PKD Shophouse Lavita Charm 0909515587. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/trCE61' target='_blank'><img src='https://2.bp.blogspot.com/-Vu4BawlY2I8/WbKnccBqDmI/AAAAAAAAAFg/BLRN_jyneIo76TuP5EAZmJdnkYmN-NjKACLcBGAs/s1600/IMG_20151130_220504-960x545.jpg' width='500px'/><br/>Shophouse Lavita charm</a>.LH PKD Shophouse Lavita Charm 0909517587. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
